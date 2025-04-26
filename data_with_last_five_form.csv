@@ -1,0 +1,381 @@
+date,clock,Home Team,Away Team,Home Result,Home Team Label,Away Team Label,stadium_encoded,attendance_scaled,Home_Team_Last_5_Points,Away_Team_Last_5_Points
+5th August 2022,8:00pm,Crystal Palace,Arsenal,Loss,1,11,12,0.33470997802663277,0,0
+6th August 2022,12:30p,Fulham,Liverpool,Tie,3,6,2,0.33092420512005927,0,0
+6th August 2022,3:00pm,Bournemouth,Aston Villa,Win,10,0,20,0.1323696820480237,0,0
+6th August 2022,5:30pm,Everton,Chelsea,Loss,19,12,6,0.5196039499113123,0,0
+6th August 2022,3:00pm,Newcastle United,Nottingham Forest,Win,7,17,13,0.6915654038598998,0,0
+6th August 2022,3:00pm,Leeds United,Wolverhampton Wanderers,Win,13,18,3,0.48112408333995177,0,0
+6th August 2022,3:00pm,Tottenham Hotspur,Southampton,Win,5,15,18,0.8171445212188599,0,0
+7th August 2022,2:00pm,Leicester City,Brentford,Tie,2,8,17,0.4208561671034866,0,0
+7th August 2022,4:30pm,West Ham United,Manchester City,Loss,16,14,8,0.8265560056124744,0,0
+7th August 2022,2:00pm,Manchester United,Brighton and Hove Albion,Loss,9,4,11,0.9757101633441876,0,0
+13th August 2022,5:30pm,Brentford,Manchester United,Win,8,9,7,0.22570354486008523,1,0
+13th August 2022,3:00pm,Arsenal,Leicester City,Win,11,2,4,0.7946549122389007,3,1
+13th August 2022,3:00pm,Brighton and Hove Albion,Newcastle United,Tie,4,7,0,0.41765282079792443,3,3
+13th August 2022,12:30p,Aston Villa,Everton,Win,0,19,19,0.5544039393217377,0,0
+13th August 2022,3:00pm,Southampton,Leeds United,Tie,15,13,14,0.40789717523098507,0,3
+13th August 2022,3:00pm,Wolverhampton Wanderers,Fulham,Tie,18,3,9,0.41270219468932834,0,1
+13th August 2022,3:00pm,Manchester City,Bournemouth,Win,14,10,5,0.7075556614513011,3,3
+14th August 2022,4:30pm,Chelsea,Tottenham Hotspur,Tie,12,5,15,0.5287639319090355,3,3
+14th August 2022,2:00pm,Nottingham Forest,West Ham United,Win,17,16,16,0.38759166600481826,0,0
+15th August 2022,8:00pm,Liverpool,Crystal Palace,Tie,6,1,1,0.7011622058083816,1,0
+20th August 2022,12:30p,Tottenham Hotspur,Wolverhampton Wanderers,Win,5,18,18,0.8113996770179758,4,1
+20th August 2022,5:30pm,Bournemouth,Arsenal,Loss,10,11,20,0.13796891959865512,3,6
+20th August 2022,3:00pm,Leicester City,Southampton,Loss,2,15,17,0.40836046911815316,1,1
+20th August 2022,3:00pm,Fulham,Brentford,Win,3,8,2,0.2885394329282821,2,4
+20th August 2022,3:00pm,Everton,Nottingham Forest,Tie,19,17,6,0.5198289783707939,0,3
+20th August 2022,3:00pm,Crystal Palace,Aston Villa,Win,1,0,12,0.2913721441241098,1,3
+21st August 2022,2:00pm,Leeds United,Chelsea,Win,13,12,3,0.48145500754507187,4,4
+21st August 2022,4:30pm,Newcastle United,Manchester City,Tie,7,14,13,0.6917374844465624,4,6
+21st August 2022,2:00pm,West Ham United,Brighton and Hove Albion,Loss,16,4,8,0.8266354274217033,0,4
+22nd August 2022,8:00pm,Manchester United,Liverpool,Win,9,6,10,0.0,0,2
+27th August 2022,5:30pm,Arsenal,Fulham,Win,11,3,4,0.7963889550737299,9,5
+27th August 2022,3:00pm,Manchester City,Crystal Palace,Win,14,1,5,0.7030418552934635,7,4
+27th August 2022,3:00pm,Liverpool,Bournemouth,Win,6,10,1,0.7059010404257009,2,3
+27th August 2022,3:00pm,Chelsea,Leicester City,Win,12,2,15,0.5288565906864692,4,1
+27th August 2022,3:00pm,Brighton and Hove Albion,Leeds United,Win,4,13,0,0.4097238768432478,7,7
+27th August 2022,3:00pm,Brentford,Everton,Tie,8,19,7,0.22514759219548353,4,1
+27th August 2022,12:30p,Southampton,Manchester United,Loss,15,9,14,0.4129404601170148,4,3
+28th August 2022,2:00pm,Aston Villa,West Ham United,Loss,0,16,19,0.5532523230879199,3,0
+28th August 2022,4:30pm,Nottingham Forest,Tottenham Hotspur,Loss,17,5,16,0.38779022052789025,4,7
+28th August 2022,2:00pm,Wolverhampton Wanderers,Newcastle United,Tie,18,7,9,0.41446271146056707,1,5
+30th August 2022,8:00pm,Leeds United,Everton,Tie,13,19,3,0.4810049506261086,7,2
+30th August 2022,7:45pm,Southampton,Chelsea,Win,15,12,10,0.0,4,7
+30th August 2022,7:30pm,Fulham,Brighton and Hove Albion,Win,3,4,2,0.2941783813835279,5,10
+30th August 2022,7:30pm,Crystal Palace,Brentford,Tie,1,8,12,0.33149339475286577,4,5
+31st August 2022,8:00pm,Liverpool,Newcastle United,Win,6,7,1,0.7057421968072433,5,6
+31st August 2022,7:45pm,West Ham United,Tottenham Hotspur,Tie,16,5,8,0.8266486643899081,3,10
+31st August 2022,7:30pm,Manchester City,Nottingham Forest,Win,14,17,5,0.7069732348502898,10,4
+31st August 2022,7:30pm,Bournemouth,Wolverhampton Wanderers,Tie,10,18,20,0.13386545945516637,3,2
+31st August 2022,7:30pm,Arsenal,Aston Villa,Win,11,0,4,0.7943769359065999,12,3
+1st September 2022,8:00pm,Leicester City,Manchester United,Loss,2,9,17,0.4265745373679612,1,6
+3rd September 2022,3:00pm,Wolverhampton Wanderers,Southampton,Win,18,15,9,0.40433643078389325,3,7
+3rd September 2022,3:00pm,Tottenham Hotspur,Fulham,Win,5,3,18,0.815939957112223,11,8
+3rd September 2022,3:00pm,Nottingham Forest,Bournemouth,Loss,17,10,16,0.3801657268419241,4,4
+3rd September 2022,3:00pm,Newcastle United,Crystal Palace,Tie,7,1,13,0.6865088820056654,6,5
+3rd September 2022,3:00pm,Chelsea,West Ham United,Win,12,16,15,0.5284594816403251,7,4
+3rd September 2022,3:00pm,Brentford,Leeds United,Win,8,13,10,0.0,6,8
+3rd September 2022,12:30p,Everton,Liverpool,Tie,19,6,6,0.519418632356445,3,8
+3rd September 2022,5:30pm,Aston Villa,Manchester City,Tie,0,14,19,0.5537023800068832,3,13
+4th September 2022,4:30pm,Manchester United,Arsenal,Win,9,11,11,0.972003812246843,9,15
+4th September 2022,2:00pm,Brighton and Hove Albion,Leicester City,Win,4,2,0,0.4127948534667619,10,1
+16th September 2022,8:00pm,Nottingham Forest,Fulham,Loss,17,3,16,0.37929208694040717,4,7
+16th September 2022,8:00pm,Aston Villa,Southampton,Win,0,15,19,0.539512350091335,4,7
+17th September 2022,5:30pm,Tottenham Hotspur,Leicester City,Win,5,2,18,0.8134116961851057,11,0
+17th September 2022,3:00pm,Newcastle United,Bournemouth,Tie,7,10,13,0.6914727450824663,4,4
+17th September 2022,12:30p,Wolverhampton Wanderers,Manchester City,Loss,18,14,9,0.4179969819712493,6,11
+18th September 2022,2:15pm,Everton,West Ham United,Win,19,16,6,0.5201863765123236,4,4
+18th September 2022,12:00p,Brentford,Arsenal,Loss,8,11,7,0.2266433696026262,8,12
+1st October 2022,12:30p,Arsenal,Tottenham Hotspur,Win,11,5,4,0.7978979694490773,12,13
+1st October 2022,3:00pm,Crystal Palace,Chelsea,Loss,1,12,12,0.33354512482461013,6,7
+1st October 2022,3:00pm,Bournemouth,Brentford,Tie,10,8,20,0.1340375400418288,5,5
+1st October 2022,3:00pm,Liverpool,Brighton and Hove Albion,Tie,6,4,1,0.7057951446800624,8,10
+1st October 2022,3:00pm,Southampton,Everton,Loss,15,19,14,0.40385989992852034,6,7
+1st October 2022,5:30pm,West Ham United,Wolverhampton Wanderers,Win,16,18,8,0.8265692425806793,4,5
+1st October 2022,3:00pm,Fulham,Newcastle United,Loss,3,7,2,0.30329865247663673,9,4
+2nd October 2022,4:30pm,Leeds United,Aston Villa,Tie,13,0,3,0.48423477086808037,5,4
+2nd October 2022,2:00pm,Manchester City,Manchester United,Win,14,9,5,0.7078468747518069,11,12
+3rd October 2022,8:00pm,Leicester City,Nottingham Forest,Win,2,17,17,0.426256850131046,0,1
+8th October 2022,5:30pm,Brighton and Hove Albion,Tottenham Hotspur,Loss,4,5,0,0.4169380245148651,10,10
+8th October 2022,3:00pm,Newcastle United,Brentford,Win,7,8,13,0.689209223519445,6,6
+8th October 2022,3:00pm,Manchester City,Southampton,Win,14,15,5,0.7063908082492786,13,3
+8th October 2022,3:00pm,Chelsea,Wolverhampton Wanderers,Win,12,18,15,0.5286845100998067,9,5
+8th October 2022,3:00pm,Bournemouth,Leicester City,Win,10,2,20,0.13597013739972996,6,3
+9th October 2022,2:00pm,Crystal Palace,Leeds United,Win,1,13,12,0.331480157784661,5,5
+9th October 2022,7:00pm,Everton,Manchester United,Loss,19,9,6,0.5196568977841315,9,12
+9th October 2022,4:30pm,Arsenal,Liverpool,Win,11,6,4,0.7937945093055886,12,8
+9th October 2022,2:00pm,West Ham United,Fulham,Win,16,3,8,0.8267016122627273,7,6
+10th October 2022,8:00pm,Nottingham Forest,Aston Villa,Tie,17,0,16,0.38662536732586766,0,5
+14th October 2022,8:00pm,Brentford,Brighton and Hove Albion,Win,8,4,7,0.22524025097291714,5,7
+15th October 2022,5:30pm,Tottenham Hotspur,Everton,Win,5,19,18,0.8182034786752442,10,8
+15th October 2022,3:00pm,Wolverhampton Wanderers,Nottingham Forest,Win,18,17,9,0.417679294734334,4,1
+15th October 2022,3:00pm,Fulham,Bournemouth,Tie,3,10,2,0.30329865247663673,6,9
+15th October 2022,12:30p,Leicester City,Crystal Palace,Tie,2,1,17,0.4142906308739046,3,5
+16th October 2022,2:00pm,Aston Villa,Chelsea,Loss,0,12,19,0.5526963704233182,6,12
+16th October 2022,2:00pm,Leeds United,Arsenal,Loss,13,11,3,0.48579673311624705,2,12
+16th October 2022,2:00pm,Southampton,West Ham United,Tie,15,16,14,0.38597675588383235,3,7
+16th October 2022,4:30pm,Liverpool,Manchester City,Win,6,14,1,0.7053450877610992,8,13
+16th October 2022,2:00pm,Manchester United,Newcastle United,Tie,9,7,11,0.9759087178672596,12,8
+18th October 2022,8:15pm,Crystal Palace,Wolverhampton Wanderers,Win,1,18,12,0.3325788261456596,6,6
+18th October 2022,7:30pm,Brighton and Hove Albion,Nottingham Forest,Tie,4,17,0,0.416474730627697,4,1
+19th October 2022,8:15pm,Manchester United,Tottenham Hotspur,Win,9,5,11,0.9752601064252243,10,12
+19th October 2022,7:30pm,Newcastle United,Everton,Win,7,19,13,0.6915918777963095,9,7
+19th October 2022,7:30pm,Liverpool,West Ham United,Win,6,16,1,0.7061393058533874,8,7
+19th October 2022,7:30pm,Brentford,Chelsea,Tie,8,12,7,0.226590421729807,7,12
+19th October 2022,7:30pm,Bournemouth,Southampton,Loss,10,15,20,0.13773065417096866,9,1
+20th October 2022,8:15pm,Leicester City,Leeds United,Win,2,13,17,0.40788393826278024,4,2
+20th October 2022,7:30pm,Fulham,Aston Villa,Win,3,0,2,0.31117464855849414,4,6
+22nd October 2022,12:30p,Nottingham Forest,Liverpool,Win,17,6,16,0.38711513514944534,2,8
+22nd October 2022,3:00pm,Manchester City,Brighton and Hove Albion,Win,14,4,5,0.7045111587641966,10,5
+22nd October 2022,5:30pm,Chelsea,Manchester United,Tie,12,9,15,0.5228999549943081,13,10
+22nd October 2022,3:00pm,Everton,Crystal Palace,Win,19,1,6,0.5154343049267995,6,8
+23rd October 2022,4:30pm,Tottenham Hotspur,Newcastle United,Loss,5,7,18,0.8170650994096311,9,11
+23rd October 2022,2:00pm,Wolverhampton Wanderers,Leicester City,Loss,18,2,9,0.4159717258359145,3,7
+23rd October 2022,2:00pm,Southampton,Arsenal,Tie,15,11,14,0.41226537473856983,4,12
+23rd October 2022,2:00pm,Leeds United,Fulham,Loss,13,3,3,0.48244778016043205,1,7
+23rd October 2022,2:00pm,Aston Villa,Brentford,Win,0,8,19,0.5518889153628252,5,5
+24th October 2022,8:00pm,West Ham United,Bournemouth,Win,16,10,8,0.8266089534852937,7,6
+29th October 2022,3:00pm,Bournemouth,Tottenham Hotspur,Loss,10,5,20,0.13806157837608873,5,6
+29th October 2022,12:30p,Leicester City,Manchester City,Loss,2,14,17,0.42653482646334684,10,12
+29th October 2022,3:00pm,Brentford,Wolverhampton Wanderers,Tie,8,18,7,0.22570354486008523,5,3
+29th October 2022,5:30pm,Fulham,Everton,Tie,3,19,2,0.311518809731819,7,6
+29th October 2022,3:00pm,Crystal Palace,Southampton,Win,1,15,12,0.3326450109866836,7,5
+29th October 2022,3:00pm,Newcastle United,Aston Villa,Win,7,0,13,0.6914065602414423,13,5
+29th October 2022,7:45pm,Liverpool,Leeds United,Loss,6,13,1,0.7051862441426415,7,1
+29th October 2022,3:00pm,Brighton and Hove Albion,Chelsea,Win,4,12,0,0.42022079262965606,2,11
+30th October 2022,4:15pm,Manchester United,West Ham United,Win,9,16,11,0.9753262912662484,8,10
+30th October 2022,2:00pm,Arsenal,Nottingham Forest,Win,11,17,4,0.7976994149260053,13,5
+5th November 2022,3:00pm,Manchester City,Fulham,Win,14,3,5,0.6935509490906202,12,8
+5th November 2022,3:00pm,Leeds United,Bournemouth,Win,13,10,3,0.48055489370714527,3,4
+5th November 2022,3:00pm,Wolverhampton Wanderers,Brighton and Hove Albion,Loss,18,4,9,0.4067985068699865,4,4
+5th November 2022,5:30pm,Everton,Leicester City,Loss,19,2,6,0.5189685754374818,4,7
+5th November 2022,3:00pm,Nottingham Forest,Brentford,Tie,17,8,16,0.38213803510443967,5,5
+6th November 2022,4:30pm,Tottenham Hotspur,Liverpool,Loss,5,6,18,0.8207979244433854,9,6
+6th November 2022,2:00pm,West Ham United,Crystal Palace,Loss,16,1,8,0.8266619013581129,7,10
+6th November 2022,2:00pm,Southampton,Newcastle United,Loss,15,7,14,0.4024303073624017,5,13
+6th November 2022,2:00pm,Aston Villa,Manchester United,Win,0,9,19,0.5567204087575781,4,11
+6th November 2022,12:00p,Chelsea,Arsenal,Loss,12,11,15,0.5313583776771768,8,13
+12th November 2022,12:30p,Manchester City,Brentford,Loss,14,8,5,0.698726603658698,12,6
+12th November 2022,3:00pm,Liverpool,Southampton,Win,6,15,1,0.7059407513303153,9,5
+12th November 2022,3:00pm,Nottingham Forest,Crystal Palace,Win,17,1,16,0.3844677415084849,5,10
+12th November 2022,3:00pm,Bournemouth,Everton,Win,10,19,20,0.1374262039022582,1,4
+12th November 2022,3:00pm,West Ham United,Leicester City,Loss,16,2,8,0.8267677971037514,4,10
+12th November 2022,7:45pm,Wolverhampton Wanderers,Arsenal,Loss,18,11,9,0.45831678712307733,4,13
+12th November 2022,3:00pm,Tottenham Hotspur,Leeds United,Win,5,13,18,0.8162841182855478,6,6
+12th November 2022,5:30pm,Newcastle United,Chelsea,Win,7,12,13,0.6918169062557912,13,5
+13th November 2022,4:30pm,Fulham,Manchester United,Loss,3,9,2,0.3209435310936383,8,8
+13th November 2022,2:00pm,Brighton and Hove Albion,Aston Villa,Loss,4,0,0,0.4180366928758637,7,6
+26th December 2022,3:00pm,Crystal Palace,Fulham,Loss,1,3,12,0.3332539115241045,9,7
+26th December 2022,3:00pm,Everton,Wolverhampton Wanderers,Loss,19,18,6,0.5195774759749027,4,1
+26th December 2022,12:30p,Brentford,Tottenham Hotspur,Tie,8,5,7,0.22684192412569823,6,6
+26th December 2022,3:00pm,Southampton,Brighton and Hove Albion,Loss,15,4,14,0.4104783840309215,4,7
+26th December 2022,5:30pm,Aston Villa,Liverpool,Loss,0,6,19,0.5570778068991078,9,9
+26th December 2022,8:00pm,Arsenal,West Ham United,Win,11,16,4,0.7958727133137425,13,3
+26th December 2022,3:00pm,Leicester City,Newcastle United,Loss,2,7,17,0.42603182167156434,12,15
+27th December 2022,8:00pm,Manchester United,Nottingham Forest,Win,9,17,11,0.9743467556190929,10,8
+27th December 2022,5:30pm,Chelsea,Bournemouth,Win,12,10,15,0.5300876287295158,2,3
+28th December 2022,8:00pm,Leeds United,Manchester City,Loss,13,14,3,0.4882985201069547,6,9
+30th December 2022,8:00pm,Liverpool,Leicester City,Win,6,2,1,0.706099594948773,9,9
+30th December 2022,7:45pm,West Ham United,Brentford,Loss,16,8,8,0.8268736928493897,3,6
+31st December 2022,12:30p,Wolverhampton Wanderers,Manchester United,Loss,18,9,9,0.4190559394276335,4,10
+31st December 2022,5:30pm,Brighton and Hove Albion,Arsenal,Loss,4,11,0,0.41891033277738066,9,13
+31st December 2022,3:00pm,Newcastle United,Leeds United,Tie,7,13,13,0.6911153469409366,15,6
+31st December 2022,3:00pm,Manchester City,Everton,Tie,14,19,5,0.7074365287374579,12,4
+31st December 2022,3:00pm,Fulham,Southampton,Win,3,15,2,0.3222407539777089,7,1
+31st December 2022,3:00pm,Bournemouth,Crystal Palace,Loss,10,1,20,0.13199904693828926,3,6
+1st January 2023,2:00pm,Tottenham Hotspur,Aston Villa,Loss,5,0,18,0.816072326794271,7,9
+1st January 2023,4:30pm,Nottingham Forest,Chelsea,Tie,17,12,16,0.38690334365816853,7,4
+2nd January 2023,5:30pm,Brentford,Liverpool,Win,8,6,7,0.2271860852990231,9,12
+3rd January 2023,8:00pm,Manchester United,Bournemouth,Win,9,10,11,0.9705609827125194,12,3
+3rd January 2023,7:45pm,Leicester City,Fulham,Loss,2,3,17,0.4078707012945755,6,7
+3rd January 2023,7:45pm,Everton,Brighton and Hove Albion,Loss,19,4,10,0.0,2,9
+3rd January 2023,7:45pm,Arsenal,Newcastle United,Tie,11,7,4,0.7984406851454743,15,13
+4th January 2023,8:00pm,Crystal Palace,Tottenham Hotspur,Loss,1,5,12,0.3326714849230932,9,7
+4th January 2023,8:00pm,Aston Villa,Wolverhampton Wanderers,Tie,0,18,19,0.5291875148915892,9,4
+4th January 2023,7:45pm,Leeds United,West Ham United,Tie,13,16,3,0.4788208508723162,7,0
+4th January 2023,7:30pm,Southampton,Nottingham Forest,Loss,15,17,14,0.3990945913747915,0,5
+5th January 2023,8:00pm,Chelsea,Manchester City,Loss,12,14,15,0.5294522542556852,4,10
+12th January 2023,8:00pm,Fulham,Chelsea,Win,3,12,2,0.323776242289466,9,4
+13th January 2023,8:00pm,Aston Villa,Leeds United,Win,0,13,19,0.556058560347338,10,5
+14th January 2023,12:30p,Manchester United,Manchester City,Win,9,14,11,1.0,12,10
+14th January 2023,3:00pm,Brighton and Hove Albion,Liverpool,Win,4,6,0,0.41888385884097107,9,12
+14th January 2023,5:30pm,Brentford,Bournemouth,Win,8,10,7,0.2254388054959892,11,3
+14th January 2023,3:00pm,Nottingham Forest,Leicester City,Win,17,2,16,0.3878564053689143,8,6
+14th January 2023,3:00pm,Wolverhampton Wanderers,West Ham United,Win,18,16,9,0.4171101051015275,4,1
+14th January 2023,3:00pm,Everton,Southampton,Loss,19,15,6,0.5202790352897572,1,0
+15th January 2023,4:30pm,Tottenham Hotspur,Arsenal,Loss,5,11,18,0.8189712228311227,7,13
+15th January 2023,2:00pm,Newcastle United,Fulham,Win,7,3,13,0.6915918777963095,11,12
+15th January 2023,2:00pm,Chelsea,Crystal Palace,Win,12,1,15,0.5304715008074551,4,6
+18th January 2023,8:00pm,Crystal Palace,Manchester United,Tie,1,9,12,0.3089905488047018,3,15
+19th January 2023,8:00pm,Manchester City,Tottenham Hotspur,Win,14,5,5,0.7027241680565482,7,7
+21st January 2023,5:30pm,Crystal Palace,Newcastle United,Tie,1,7,12,0.33555714399174014,4,11
+21st January 2023,3:00pm,West Ham United,Everton,Win,16,19,8,0.8269134037540041,1,1
+21st January 2023,3:00pm,Leicester City,Brighton and Hove Albion,Tie,2,4,17,0.42432425277314484,3,9
+21st January 2023,12:30p,Liverpool,Chelsea,Tie,6,12,1,0.7032271728483308,9,7
+21st January 2023,3:00pm,Southampton,Aston Villa,Loss,15,0,14,0.39920048712042994,3,10
+21st January 2023,3:00pm,Bournemouth,Nottingham Forest,Tie,10,17,20,0.13565245016281471,3,10
+22nd January 2023,4:30pm,Arsenal,Manchester United,Win,11,9,4,0.7985201069547031,13,13
+22nd January 2023,2:00pm,Manchester City,Wolverhampton Wanderers,Win,14,18,5,0.70529213988828,10,7
+22nd January 2023,2:00pm,Leeds United,Brentford,Tie,13,8,3,0.479972467106134,2,13
+23rd January 2023,8:15pm,Fulham,Tottenham Hotspur,Loss,3,5,2,0.32020226087416936,12,4
+3rd February 2023,8:00pm,Chelsea,Fulham,Tie,12,3,15,0.5300214438884917,5,9
+4th February 2023,12:30p,Everton,Arsenal,Win,19,11,6,0.5203981680036004,1,13
+4th February 2023,3:00pm,Aston Villa,Leicester City,Loss,0,2,19,0.5566806978529637,10,1
+4th February 2023,3:00pm,Brentford,Southampton,Win,8,15,7,0.22570354486008523,11,3
+4th February 2023,3:00pm,Brighton and Hove Albion,Bournemouth,Win,4,10,0,0.4182881952717549,10,1
+4th February 2023,3:00pm,Manchester United,Crystal Palace,Win,9,1,11,0.9718582055965901,10,5
+4th February 2023,3:00pm,Wolverhampton Wanderers,Liverpool,Win,18,6,9,0.4191353612368623,7,7
+4th February 2023,5:30pm,Newcastle United,West Ham United,Tie,7,16,13,0.6917110105101527,9,4
+5th February 2023,4:30pm,Tottenham Hotspur,Manchester City,Win,5,14,18,0.817343075741932,6,10
+5th February 2023,2:00pm,Nottingham Forest,Leeds United,Win,17,13,16,0.388677097397612,8,3
+8th February 2023,8:00pm,Manchester United,Leeds United,Tie,9,13,11,0.972334736451963,10,3
+11th February 2023,12:30p,West Ham United,Chelsea,Tie,16,12,8,0.8269266407222089,5,5
+11th February 2023,3:00pm,Crystal Palace,Brighton and Hove Albion,Tie,1,4,12,0.32863420962062845,2,10
+11th February 2023,3:00pm,Arsenal,Brentford,Tie,11,8,4,0.797580282212162,10,13
+11th February 2023,3:00pm,Leicester City,Tottenham Hotspur,Win,2,5,17,0.4260185847033595,4,9
+11th February 2023,3:00pm,Fulham,Nottingham Forest,Win,3,17,2,0.3209170571572287,7,11
+11th February 2023,3:00pm,Southampton,Wolverhampton Wanderers,Loss,15,18,14,0.39381304106107534,3,7
+11th February 2023,5:30pm,Bournemouth,Newcastle United,Tie,10,7,20,0.13791597172583592,1,7
+12th February 2023,4:30pm,Manchester City,Aston Villa,Win,14,0,5,0.7067482063908083,9,10
+12th February 2023,2:00pm,Leeds United,Manchester United,Loss,13,9,3,0.4886956291530987,3,8
+13th February 2023,8:00pm,Liverpool,Everton,Win,6,19,1,0.7019167129960553,4,4
+15th February 2023,7:30pm,Arsenal,Manchester City,Loss,11,14,4,0.7978714955126678,8,9
+18th February 2023,12:30p,Aston Villa,Arsenal,Loss,0,11,19,0.5568263045032166,7,7
+18th February 2023,3:00pm,Brentford,Crystal Palace,Tie,8,1,7,0.2266433696026262,11,3
+18th February 2023,3:00pm,Chelsea,Southampton,Loss,12,15,15,0.5314907473592249,6,3
+18th February 2023,3:00pm,Brighton and Hove Albion,Fulham,Loss,4,3,0,0.4185396976676462,11,7
+18th February 2023,3:00pm,Nottingham Forest,Manchester City,Tie,17,14,16,0.3887035713340216,10,12
+18th February 2023,3:00pm,Wolverhampton Wanderers,Bournemouth,Loss,18,10,9,0.41328462129033966,10,2
+18th February 2023,5:30pm,Newcastle United,Liverpool,Loss,7,6,13,0.6983559685489635,7,4
+18th February 2023,3:00pm,Everton,Leeds United,Win,19,13,6,0.5193127366108067,3,2
+19th February 2023,2:00pm,Manchester United,Leicester City,Win,9,2,11,0.9739496465729489,8,7
+19th February 2023,4:30pm,Tottenham Hotspur,West Ham United,Win,5,16,18,0.8137558573584306,6,6
+24th February 2023,8:00pm,Fulham,Wolverhampton Wanderers,Tie,3,18,2,0.32296878722897304,7,9
+25th February 2023,7:45pm,Crystal Palace,Liverpool,Tie,1,6,12,0.3420697323485029,4,7
+25th February 2023,5:30pm,Bournemouth,Manchester City,Loss,10,14,20,0.13873666375453367,5,10
+25th February 2023,3:00pm,West Ham United,Nottingham Forest,Win,16,17,8,0.8269001667857994,5,8
+25th February 2023,3:00pm,Leicester City,Arsenal,Loss,2,11,17,0.426587774336166,7,7
+25th February 2023,3:00pm,Leeds United,Southampton,Win,13,15,3,0.4850157519921637,2,6
+25th February 2023,3:00pm,Everton,Aston Villa,Loss,19,0,6,0.5203319831625765,6,6
+26th February 2023,1:30pm,Tottenham Hotspur,Chelsea,Win,5,12,18,0.8155693220024886,9,6
+1st March 2023,7:45pm,Arsenal,Everton,Win,11,19,4,0.7970375665157652,7,6
+1st March 2023,8:00pm,Liverpool,Wolverhampton Wanderers,Win,6,18,1,0.7049876896195695,8,7
+4th March 2023,5:30pm,Southampton,Leicester City,Win,15,2,14,0.39894898472453866,3,7
+4th March 2023,3:00pm,Wolverhampton Wanderers,Tottenham Hotspur,Win,18,5,9,0.4180896407486829,7,12
+4th March 2023,3:00pm,Chelsea,Leeds United,Win,12,13,15,0.5282212162126386,3,4
+4th March 2023,3:00pm,Brighton and Hove Albion,West Ham United,Win,4,16,0,0.41726894871998516,8,8
+4th March 2023,3:00pm,Aston Villa,Crystal Palace,Win,0,1,19,0.5545363090037857,6,4
+4th March 2023,3:00pm,Arsenal,Bournemouth,Win,11,10,4,0.7971566992296084,10,5
+4th March 2023,12:30p,Manchester City,Newcastle United,Win,14,7,5,0.7071056045323378,10,6
+5th March 2023,4:30pm,Liverpool,Manchester United,Win,6,9,1,0.7015725518227305,10,10
+5th March 2023,2:00pm,Nottingham Forest,Everton,Tie,17,19,16,0.38854472771556403,5,6
+6th March 2023,8:00pm,Brentford,Fulham,Win,8,3,7,0.22535938368676037,9,8
+11th March 2023,12:30p,Bournemouth,Liverpool,Win,10,6,20,0.13946469700579778,4,13
+11th March 2023,3:00pm,Everton,Brentford,Win,19,8,6,0.5167182908426654,4,9
+11th March 2023,3:00pm,Leicester City,Chelsea,Loss,2,12,17,0.4258332671484923,6,5
+11th March 2023,3:00pm,Tottenham Hotspur,Nottingham Forest,Win,5,17,18,0.8135440658671538,9,5
+11th March 2023,5:30pm,Crystal Palace,Manchester City,Loss,1,14,12,0.3420962062849125,3,13
+11th March 2023,3:00pm,Leeds United,Brighton and Hove Albion,Tie,13,4,3,0.48276546739734727,4,8
+12th March 2023,4:30pm,Newcastle United,Wolverhampton Wanderers,Win,7,18,13,0.6914992190188759,3,7
+12th March 2023,2:00pm,West Ham United,Aston Villa,Tie,16,0,8,0.8269398776904138,5,6
+12th March 2023,2:00pm,Manchester United,Southampton,Tie,9,15,11,0.9721097079924813,10,6
+12th March 2023,2:00pm,Fulham,Arsenal,Loss,3,11,2,0.32332618537050273,8,12
+15th March 2023,7:30pm,Southampton,Brentford,Loss,15,8,14,0.40290683821777457,7,8
+15th March 2023,7:30pm,Brighton and Hove Albion,Crystal Palace,Win,4,1,0,0.40945913747915175,8,3
+17th March 2023,8:00pm,Nottingham Forest,Newcastle United,Loss,17,7,16,0.3886638604294072,2,5
+18th March 2023,3:00pm,Aston Villa,Bournemouth,Win,0,10,19,0.5429936727291981,7,7
+18th March 2023,3:00pm,Brentford,Leicester City,Tie,8,2,7,0.22510788129086912,8,3
+18th March 2023,3:00pm,Wolverhampton Wanderers,Leeds United,Loss,18,13,9,0.4178910862256109,4,4
+18th March 2023,5:30pm,Chelsea,Everton,Tie,12,19,15,0.5298096523972149,7,7
+18th March 2023,3:00pm,Southampton,Tottenham Hotspur,Tie,15,5,14,0.3991872501522251,7,9
+19th March 2023,2:00pm,Arsenal,Crystal Palace,Win,11,1,4,0.7974876234347285,15,2
+1st April 2023,5:30pm,Chelsea,Aston Villa,Loss,12,0,15,0.5305641595848887,7,10
+1st April 2023,3:00pm,Nottingham Forest,Wolverhampton Wanderers,Tie,17,18,16,0.388743282238636,2,4
+1st April 2023,3:00pm,Crystal Palace,Leicester City,Win,1,2,12,0.33281709157334605,1,1
+1st April 2023,3:00pm,Brighton and Hove Albion,Brentford,Tie,4,8,0,0.41687183967384106,8,8
+1st April 2023,3:00pm,Bournemouth,Fulham,Win,10,3,20,0.13640695735048844,6,7
+1st April 2023,3:00pm,Arsenal,Leeds United,Win,11,13,4,0.7979641542901014,15,7
+1st April 2023,12:30p,Manchester City,Liverpool,Win,14,6,5,0.699931167765335,13,10
+2nd April 2023,2:00pm,West Ham United,Southampton,Win,16,15,8,0.8268472189129801,5,5
+2nd April 2023,4:30pm,Newcastle United,Manchester United,Win,7,9,13,0.6918698541286104,7,8
+3rd April 2023,8:00pm,Everton,Tottenham Hotspur,Tie,19,5,6,0.5201334286395044,5,10
+4th April 2023,8:00pm,Chelsea,Liverpool,Tie,12,6,15,0.5307097662351414,7,7
+4th April 2023,7:45pm,Leicester City,Aston Villa,Loss,2,0,17,0.4247345987874937,1,13
+4th April 2023,7:45pm,Leeds United,Nottingham Forest,Win,13,17,3,0.48632621184443914,7,2
+4th April 2023,7:45pm,Bournemouth,Brighton and Hove Albion,Loss,10,4,20,0.13589071559050114,6,8
+5th April 2023,8:00pm,West Ham United,Newcastle United,Loss,16,7,8,0.8269134037540041,7,9
+5th April 2023,8:00pm,Manchester United,Brentford,Win,9,8,11,0.970388902125857,7,8
+8th April 2023,3:00pm,Aston Villa,Nottingham Forest,Win,0,17,19,0.5569586741852646,13,2
+8th April 2023,12:30p,Manchester United,Everton,Win,9,19,11,0.9730362957668175,7,6
+8th April 2023,3:00pm,Brentford,Newcastle United,Loss,8,7,7,0.22644481507955416,5,12
+8th April 2023,5:30pm,Southampton,Manchester City,Loss,15,14,14,0.40985624652529584,5,13
+8th April 2023,3:00pm,Leicester City,Bournemouth,Loss,2,10,17,0.4248272575649273,1,6
+8th April 2023,3:00pm,Wolverhampton Wanderers,Chelsea,Win,18,12,9,0.41847351282662215,4,8
+8th April 2023,3:00pm,Fulham,West Ham United,Loss,3,16,2,0.32418658830381486,4,7
+8th April 2023,3:00pm,Tottenham Hotspur,Brighton and Hove Albion,Win,5,4,18,0.8128160326158896,8,11
+9th April 2023,4:30pm,Liverpool,Arsenal,Tie,6,11,1,0.7050935853652079,7,15
+9th April 2023,2:00pm,Leeds United,Crystal Palace,Loss,13,1,3,0.482183040796336,7,3
+15th April 2023,5:30pm,Manchester City,Leicester City,Win,14,2,5,0.7059142773939057,15,1
+15th April 2023,3:00pm,Wolverhampton Wanderers,Brentford,Win,18,8,9,0.40728827469356416,7,5
+15th April 2023,3:00pm,Tottenham Hotspur,Bournemouth,Loss,5,10,18,0.8123395017605167,8,9
+15th April 2023,3:00pm,Southampton,Crystal Palace,Loss,15,1,14,0.40119926931935507,2,6
+15th April 2023,3:00pm,Everton,Fulham,Loss,19,3,6,0.5194318693246499,6,1
+15th April 2023,3:00pm,Chelsea,Brighton and Hove Albion,Loss,12,4,15,0.5311465861858999,5,8
+15th April 2023,12:30p,Aston Villa,Newcastle United,Win,0,7,19,0.5566806978529637,13,15
+16th April 2023,2:00pm,West Ham United,Arsenal,Tie,16,11,8,0.8269795885950282,7,13
+16th April 2023,4:30pm,Nottingham Forest,Manchester United,Loss,17,9,16,0.3896301591083578,1,7
+17th April 2023,8:00pm,Leeds United,Liverpool,Loss,13,6,3,0.48522754348344055,7,5
+21st April 2023,8:00pm,Arsenal,Southampton,Tie,11,15,4,0.7965345617239827,11,1
+22nd April 2023,3:00pm,Liverpool,Nottingham Forest,Win,6,17,10,0.0,5,1
+22nd April 2023,3:00pm,Leicester City,Wolverhampton Wanderers,Win,2,18,17,0.42428454186853043,1,7
+22nd April 2023,3:00pm,Crystal Palace,Everton,Tie,1,19,12,0.33359807269742936,9,5
+22nd April 2023,3:00pm,Brentford,Aston Villa,Tie,8,0,7,0.22632568236571093,2,15
+22nd April 2023,12:30p,Fulham,Leeds United,Win,3,13,2,0.32239959759616654,3,6
+23rd April 2023,2:00pm,Newcastle United,Tottenham Hotspur,Win,7,5,13,0.6916580626373335,12,8
+23rd April 2023,2:00pm,Bournemouth,West Ham United,Loss,10,16,20,0.13852487226325683,9,8
+25th April 2023,8:00pm,Leeds United,Leicester City,Tie,13,2,3,0.4853466761972837,3,3
+25th April 2023,7:45pm,Aston Villa,Fulham,Win,0,3,19,0.5433245969343181,13,6
+25th April 2023,7:30pm,Wolverhampton Wanderers,Crystal Palace,Win,18,1,9,0.4075927249622746,7,10
+26th April 2023,8:00pm,Manchester City,Arsenal,Win,14,11,5,0.7079395335292404,15,9
+26th April 2023,7:45pm,West Ham United,Liverpool,Loss,16,6,8,0.8269531146586185,10,8
+26th April 2023,7:45pm,Chelsea,Brentford,Loss,12,8,15,0.5285389034495539,2,2
+26th April 2023,7:30pm,Nottingham Forest,Brighton and Hove Albion,Win,17,4,16,0.3813305800439467,1,10
+27th April 2023,8:15pm,Tottenham Hotspur,Manchester United,Tie,5,9,18,0.8152119238609589,5,10
+27th April 2023,7:45pm,Southampton,Bournemouth,Loss,15,10,14,0.40258915098085934,2,9
+27th April 2023,7:45pm,Everton,Newcastle United,Loss,19,7,6,0.5195245281020835,3,12
+29th April 2023,12:30p,Crystal Palace,West Ham United,Win,1,16,12,0.33288327641437004,10,7
+29th April 2023,3:00pm,Brighton and Hove Albion,Wolverhampton Wanderers,Win,4,18,0,0.4180764037804781,7,10
+29th April 2023,3:00pm,Brentford,Nottingham Forest,Win,8,17,7,0.2260874169380245,4,3
+30th April 2023,4:30pm,Liverpool,Tottenham Hotspur,Win,6,5,1,0.7051994811108463,11,5
+30th April 2023,2:00pm,Newcastle United,Southampton,Win,7,15,13,0.6914197972096471,12,1
+30th April 2023,2:00pm,Manchester United,Aston Villa,Win,9,0,11,0.9741349641278161,10,13
+30th April 2023,2:00pm,Fulham,Manchester City,Loss,3,14,2,0.3242792470812485,6,15
+30th April 2023,2:00pm,Bournemouth,Leeds United,Win,10,13,20,0.13811452624890794,9,4
+1st May 2023,8:00pm,Leicester City,Everton,Tie,2,19,17,0.4258729780531067,4,2
+2nd May 2023,8:00pm,Arsenal,Chelsea,Win,11,12,4,0.7961242157096339,6,1
+3rd May 2023,8:00pm,Liverpool,Fulham,Win,6,3,1,0.6962910015090144,13,6
+3rd May 2023,8:00pm,Manchester City,West Ham United,Win,14,16,5,0.7055965901569904,15,7
+4th May 2023,8:00pm,Brighton and Hove Albion,Manchester United,Win,4,9,0,0.41798374500304447,9,13
+6th May 2023,5:30pm,Liverpool,Brentford,Win,6,8,1,0.6994149260053477,15,7
+6th May 2023,3:00pm,Wolverhampton Wanderers,Aston Villa,Win,18,0,9,0.41883091096815184,9,10
+6th May 2023,3:00pm,Tottenham Hotspur,Crystal Palace,Win,5,1,18,0.8086860985359913,4,10
+6th May 2023,3:00pm,Manchester City,Leeds United,Win,14,13,5,0.7069335239456754,15,1
+6th May 2023,3:00pm,Bournemouth,Chelsea,Loss,10,12,20,0.13709527969713817,12,1
+7th May 2023,7:00pm,West Ham United,Manchester United,Win,16,9,8,0.8270060625314377,4,10
+7th May 2023,4:30pm,Newcastle United,Arsenal,Loss,7,11,13,0.6653826807508008,12,6
+8th May 2023,8:00pm,Nottingham Forest,Southampton,Win,17,15,16,0.38591057104280835,3,1
+8th May 2023,5:30pm,Brighton and Hove Albion,Everton,Loss,4,19,0,0.4178513753209965,9,2
+8th May 2023,3:00pm,Fulham,Leicester City,Win,3,2,2,0.32353797686177954,6,5
+13th May 2023,12:30p,Leeds United,Newcastle United,Tie,13,7,3,0.48917216000847163,1,9
+13th May 2023,3:00pm,Aston Villa,Tottenham Hotspur,Win,0,5,19,0.5581235273872872,7,4
+13th May 2023,3:00pm,Manchester United,Wolverhampton Wanderers,Win,9,18,11,0.9738437508273105,7,9
+13th May 2023,3:00pm,Crystal Palace,Bournemouth,Win,1,10,12,0.33137426203902254,7,9
+13th May 2023,3:00pm,Southampton,Fulham,Loss,15,3,14,0.3835808646387631,1,6
+13th May 2023,3:00pm,Chelsea,Nottingham Forest,Tie,12,17,15,0.529875837238239,3,6
+14th May 2023,4:30pm,Arsenal,Brighton and Hove Albion,Loss,11,4,4,0.7960580308686098,8,9
+14th May 2023,2:00pm,Everton,Manchester City,Loss,19,14,6,0.5212188600322982,5,15
+14th May 2023,2:00pm,Brentford,West Ham United,Win,8,16,7,0.22602123209700048,7,6
+15th May 2023,8:00pm,Leicester City,Liverpool,Loss,2,6,17,0.4265613003997564,5,15
+18th May 2023,7:30pm,Newcastle United,Brighton and Hove Albion,Win,7,4,13,0.6899372567707092,10,9
+20th May 2023,12:30p,Tottenham Hotspur,Brentford,Loss,5,8,18,0.814258862150213,4,10
+20th May 2023,3:00pm,Bournemouth,Manchester United,Loss,10,9,20,0.13554655441717628,6,7
+20th May 2023,5:30pm,Nottingham Forest,Arsenal,Win,17,11,16,0.3906758795965372,7,7
+20th May 2023,3:00pm,Liverpool,Aston Villa,Tie,6,0,1,0.7056098271251952,15,7
+20th May 2023,3:00pm,Wolverhampton Wanderers,Everton,Tie,18,19,9,0.41940010060095834,6,5
+20th May 2023,3:00pm,Fulham,Crystal Palace,Tie,3,1,2,0.32239959759616654,6,7
+21st May 2023,4:00pm,Manchester City,Chelsea,Win,14,12,5,0.7080454292748788,15,4
+21st May 2023,2:00pm,Brighton and Hove Albion,Southampton,Win,4,15,0,0.41705715722870834,9,1
+21st May 2023,1:30pm,West Ham United,Leeds United,Win,16,13,8,0.8270192994996426,3,2
+22nd May 2023,8:00pm,Newcastle United,Leicester City,Tie,7,2,13,0.6903343658168533,10,5
+24th May 2023,8:00pm,Brighton and Hove Albion,Manchester City,Tie,4,14,0,0.41548195801233684,9,15
+25th May 2023,8:00pm,Manchester United,Chelsea,Win,9,12,11,0.9737246181134672,9,4
+28th May 2023,4:30pm,Aston Villa,Brighton and Hove Albion,Win,0,4,19,0.5587589018611177,7,7
+28th May 2023,4:30pm,Brentford,Manchester City,Win,8,14,7,0.2266168956662166,12,13
+28th May 2023,4:30pm,Chelsea,Newcastle United,Tie,12,7,15,0.5311995340587191,4,8
+28th May 2023,4:30pm,Crystal Palace,Nottingham Forest,Tie,1,17,12,0.33354512482461013,7,10
+28th May 2023,4:30pm,Manchester United,Fulham,Win,9,3,11,0.9724538691658062,9,7
+28th May 2023,4:30pm,Leeds United,Tottenham Hotspur,Loss,13,5,3,0.4880602546792682,2,4
+28th May 2023,4:30pm,Leicester City,West Ham United,Win,2,16,17,0.4260053477351547,3,6
+28th May 2023,4:30pm,Southampton,Liverpool,Tie,15,6,14,0.412053583247293,0,13
+28th May 2023,4:30pm,Everton,Bournemouth,Win,19,10,6,0.5189023905964577,5,6
+28th May 2023,4:30pm,Arsenal,Wolverhampton Wanderers,Win,11,18,4,0.7954756042675986,6,7
